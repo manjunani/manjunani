@@ -17,6 +17,8 @@ I build AI products end to end, from agent design and retrieval to the interface
 
 More, including private builds like Agent World, HealthLens and Snaplore, at **[manjunathasaiuppu.in/projects](https://manjunathasaiuppu.in/projects)**.
 
+The projects I learn from (AI agents, generative models, finance and trading AI, DevOps, interview prep) are organised in my **[GitHub Lists](https://github.com/manjunani?tab=stars)**.
+
 ### Credentials
 
 Google Cloud Certified Partner Specialist in **Gemini Enterprise Agent Development** and **Deployment** · Google AI Professional Certificate · Microsoft Azure Fundamentals and Azure AI Fundamentals · GitHub Foundations. 16 verified credentials in all, each linked to its proof on the [résumé](https://manjunathasaiuppu.in/resume).
