@@ -29,4 +29,4 @@ Python · TypeScript · Rust · React · Next.js · FastAPI · PostgreSQL · Azu
 
 ### Elsewhere
 
-[Website](https://manjunathasaiuppu.in) · [Résumé](https://manjunathasaiuppu.in/resume) · [LinkedIn](https://www.linkedin.com/in/manjunathasai/) · [X](https://x.com/manjunatha_uppu) · [DEV](https://dev.to/manjunani) · [YouTube](https://www.youtube.com/@manjunnath_uppu) · [Instagram](https://www.instagram.com/manjunnath_uppu/) · [Email](mailto:manjunatha16.512@gmail.com)
+[Website](https://manjunathasaiuppu.in) · [Résumé](https://manjunathasaiuppu.in/resume) · [LinkedIn](https://www.linkedin.com/in/manjunathasai/) · [X](https://x.com/manjunnath_uppu) · [DEV](https://dev.to/manjunani) · [YouTube](https://www.youtube.com/@manjunnath_uppu) · [Instagram](https://www.instagram.com/manjunnath_uppu/) · [Email](mailto:manjunatha16.512@gmail.com)
