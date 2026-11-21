@@ -4,7 +4,7 @@
 
 I build AI products end to end, from agent design and retrieval to the interface people actually use. Six years of shipping production software: React and Next.js frontends, Python and FastAPI backends, and delivery across Azure, AWS and Google Cloud.
 
-**Now:** building [Rust Oxide](https://github.com/manjunani/rust-oxide) and AI agents on Gemini Enterprise.
+**Now:** building Agent World, a company run by AI agents, and Smriti, a private AI second brain for the Mac. In the open: [Rust Oxide](https://github.com/manjunani/rust-oxide).
 
 ### Open source
 
